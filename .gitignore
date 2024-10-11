@@ -1,0 +1,32 @@
+# Ignore Unity's generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+Assets/StreamingAssets/
+
+# Ignore auto-generated Visual Studio files
+.vs/
+*.csproj
+*.sln
+*.suo
+*.unityproj
+
+# Ignore User-specific settings
+UserSettings/
+
+# Unity Asset Store Tools
+*.pidb
+*.pidb.meta
+
+# Packages directory (optional)
+Packages/
+
+# Mac specific files
+.DS_Store
+
+# JetBrains Rider / IDE files
+.idea/

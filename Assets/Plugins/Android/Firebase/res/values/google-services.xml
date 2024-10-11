@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://red-ball.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">3</string>
+  <string name="google_storage_bucket" translatable="false">red-ball.appspot.com</string>
+  <string name="project_id" translatable="false">red-ball</string>
+  <string name="google_api_key" translatable="false">AIzaSyByZUooe8oYL-MJ7iI03DLUQ8vMk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyByZUooe8oYL-MJ7iI03DLUQ8vMk</string>
+  <string name="google_app_id" translatable="false">1:31243:android:8bb19adf9b</string>
+  <string name="default_web_client_id" translatable="false">312434017493-601cokovcqggbld2gcmdu9ar.apps.googleusercontent.com</string>
+</resources>
